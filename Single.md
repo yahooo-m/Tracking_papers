@@ -1,4 +1,5 @@
 ## 2022
+* [[AiATrack]](https://arxiv.org/pdf/2207.09603.pdf)--[[code]](https://github.com/Little-Podi/AiATrack)--AiATrack: Attention in Attention for Transformer Visual Tracking Arxiv, 2022 Shenyuan Gao, Chunluan Zhou, Chao Ma, Xinggang Wang, Junsong Yuan
 * [[OSTrack]](https://arxiv.org/pdf/2203.11991v1.pdf)--[[Code]](https://github.com/botaoye/OSTrack)--Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework. Arxiv, 2022 .Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.
 * [[MixFormer]](https://arxiv.org/pdf/2203.11082.pdf)--[[Code]](https://github.com/MCG-NJU/MixFormer)--MixFormer: End-to-End Tracking with Iterative Mixed Attention. CVPR, 2022.
 Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.
