@@ -1,3 +1,2 @@
-## 2022
 * [[CrossViT]](https://arxiv.org/abs/2103.14899)--[[code]](https://github.com/IBM/CrossViT)--CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification ICCV, 2021 Chun-Fu (Richard) Chen, Quanfu Fan, Rameswar Panda
 * [[SSA]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Shunted_Self-Attention_via_Multi-Scale_Token_Aggregation_CVPR_2022_paper.pdf)--[[Code]](https://github.com/OliverRensu/Shunted-Transformer)--SSA: Shunted Self-Attention via Multi-Scale Token Aggregation CVPR 2022 Sucheng Ren, Daquan Zhou, Shengfeng He, Jiashi Feng, Xinchao Wang.
